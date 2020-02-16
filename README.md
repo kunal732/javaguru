@@ -1,3 +1,3 @@
-# javaguru
+# JavaGuru
 
 codeguru test
